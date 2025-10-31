@@ -1,4 +1,4 @@
-# 📞 Telecom Customer Churn Analysis and Prediction
+# Customer Churn Analysis and Prediction
 
 ## Project Overview
 
