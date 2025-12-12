@@ -26,14 +26,14 @@ An interactive Power BI dashboard presents the results in a simple and visual wa
 </p>
 
 The dashboard supports fast decision making. Leaders can filter, drill down, and immediately see which customers should get a call, an offer, or better support.
-
+</br> [ Note: `38.7%` is the average predicted probability of churn across customers (model's estimated risk).]
 ## Key Findings
 
 The analysis reveals a clear picture of who is leaving and what it costs.
 
 #### Who is leaving
 
-- Around 26.5% of customers are leaving  
+- Around 26.5% of customers are leaving </br> [ Note: `26.7%` of customers in the dataset are labeled as churned (ground truth).]
 - Senior citizens leave more often than other age groups  
 - Month to month contract customers are much more likely to churn  
 - Customers paying by electronic check are more likely to cancel  
